@@ -1,0 +1,131 @@
+Dúvidas e Respostas sobre o Curso de Engenharia de Computação - UFPA (Continuação)
+
+15. Qual é a estrutura curricular do curso de Engenharia de Computação na UFPA?
+    Resposta: A estrutura curricular do curso é composta por disciplinas obrigatórias e optativas, estágio supervisionado, atividades complementares e o Trabalho de Conclusão de Curso (TCC). As disciplinas obrigatórias são oferecidas nos dez períodos do curso, com uma carga horária total de 3600 horas. Além disso, os alunos devem cumprir 200 horas de atividades complementares e realizar o TCC nos dois últimos períodos.
+
+16. Quais são os principais desafios enfrentados pelos estudantes durante o curso de Engenharia de Computação?
+    Resposta: Os principais desafios enfrentados pelos estudantes durante o curso incluem a alta carga de disciplinas teóricas e práticas, a necessidade de conciliar estudos e atividades extracurriculares, o desenvolvimento de projetos complexos, a realização de estágios obrigatórios, e a preparação para o Trabalho de Conclusão de Curso (TCC). Além disso, os alunos precisam se adaptar ao ritmo intenso e à exigência de constante atualização de conhecimentos devido à rápida evolução tecnológica.
+
+17. Quais são as oportunidades de intercâmbio e programas internacionais disponíveis para os alunos do curso?
+    Resposta: A UFPA oferece diversas oportunidades de intercâmbio e programas internacionais para os alunos do curso de Engenharia de Computação, em parceria com instituições de ensino e pesquisa de diversos países. Essas oportunidades incluem programas de mobilidade acadêmica, estágios internacionais, participação em conferências e seminários no exterior, e projetos de pesquisa colaborativa. Os alunos interessados devem atender aos requisitos específicos de cada programa e podem buscar orientação na Coordenadoria de Mobilidade e Cooperação Internacional da UFPA.
+
+18. Como os alunos podem se envolver em projetos de pesquisa durante o curso?
+    Resposta: Os alunos podem se envolver em projetos de pesquisa durante o curso participando de grupos de pesquisa, projetos de iniciação científica, e atividades de extensão. A UFPA possui diversas linhas de pesquisa nas áreas de Computação, Automação, Inteligência Artificial, Robótica, entre outras. Os alunos podem buscar orientação de professores e pesquisadores, submeter propostas de projetos e candidatar-se a bolsas de pesquisa oferecidas por agências de fomento como CNPq, CAPES e FAPESPA.
+
+19. Quais são os principais laboratórios e infraestrutura disponível para os alunos do curso?
+    Resposta: O curso de Engenharia de Computação da UFPA conta com diversos laboratórios equipados para atender às necessidades de ensino, pesquisa e desenvolvimento tecnológico. Entre os principais laboratórios estão o Laboratório de Sistemas Embarcados, Laboratório de Redes de Computadores, Laboratório de Automação e Controle, Laboratório de Eletrônica, e Laboratório de Inteligência Artificial. A infraestrutura também inclui salas de aula equipadas com recursos multimídia, bibliotecas com acervos atualizados, e acesso a bases de dados e revistas científicas.
+
+20. Quais são os critérios para a escolha de disciplinas optativas no curso?
+    Resposta: As disciplinas optativas no curso de Engenharia de Computação permitem que os alunos aprofundem seus conhecimentos em áreas específicas de interesse. Os critérios para a escolha dessas disciplinas incluem a compatibilidade com o horário das disciplinas obrigatórias, o cumprimento de pré-requisitos específicos, e a disponibilidade de vagas. Os alunos devem consultar o plano de ensino de cada disciplina optativa e discutir suas escolhas com o orientador acadêmico para garantir que atendam aos objetivos de formação e interesses profissionais.
+
+21. Quais são as disciplinas do curso?
+    Resposta: 
+    - Período 1:
+        - Cálculo I
+        - Física I
+        - Empreendedorismo e Plano de
+Negócios
+        - Projetos de Engenharia I
+        - Eletrônica Digital
+        - Programação I
+    - Período 2:
+        - Arquitetura e Organização de
+Computadores 
+        - Cálculo II
+        - Variáveis Complexas
+        - Álgebra Linear
+        - Projetos de Engenharia II
+        - Física II
+        - Programação II
+    - Período 3:
+        - Circuitos Elétricos
+        - Probabilidade e Processos
+Estocásticos
+        - Estruturas de Dados
+        - Metodologia Científica
+        - Cálculo III
+    - Período 4:
+        - Engenharia de Software
+        - Sistemas Operacionais
+        - Eletrônica Analógica
+        - Redes de Comunicação de Dados
+        - Sinais e Sistemas
+    - Período 5:
+        - Teoria da Computação
+        - Estatística
+        - Processamento Digital de Sinais
+        - Cálculo Numérico
+        - Microprocessadores e
+Microcontroladores
+    - Período 6:
+        - Teoria Eletromagnética
+        - Inteligência Computacional
+        - Sistemas de Controle
+        - Otimização de Sistemas
+        - Banco de Dados
+    - Período 7:
+        - Automação de Processos
+Industriais e Agroindustriais 
+        - Projetos de Engenharia III
+        - Séries temporais
+        - Processamento de Alto
+Desempenho
+        - Avaliação de desempenho de
+sistemas e processos
+        - Comunicações Digitais
+    - Período 8:
+        - Análise e Projetos de Sistemas de
+Hardware
+        - Programação Embarcada
+        - Mineração de dados
+        - Empreendedorismo aplicado ao
+agronegócio
+    - Período 9:
+        - Projeto de Pesquisa
+        - Educação Ambiental e
+desenvolvimento sustentável
+        - Computação Gráfica e
+Processamento de Imagens
+    - Período 10:
+        - Estágio Supervisionado
+        - Trabalho de Conclusão de Curso (TCC)
+        - Disciplina Optativa 1
+        - Disciplina Optativa 2
+        - Disciplina Optativa 3
+        - Entrega de Atividades Científico Culturais (ACC)
+
+21. Quais são as disciplinas optativas que a faculdade pode ofertar?
+    Resposta:
+        - Comunicações Digitais II
+        - Controle Digital
+        - Desenvolvimento de Jogos
+        - Inglês Instrumental
+        - Língua Brasileira de Sinais (Libras)
+        - Modelagem e Simulação por
+computadores
+        - Projeto de Circuitos Integrados
+        - Projeto de Sistemas em Chip
+        - Sistemas de Controle II
+        - Sistemas de Informações
+Geográficas
+        - Sistemas de Informações
+Geográficas
+        - Sistemas de Informações
+Regionais
+        - Tecnologias e Protocolos de
+Redes Industriais
+        - Teoria Eletromagnética II
+        - Tópicos Especiais em Banco de
+Dados
+        - Tópicos Especiais em
+Computação Móvel
+        - Tópicos Especiais em Engenharia
+de Software
+        - Tópicos especiais em Inteligência
+Artificial
+        - Tópicos Especiais em Mineração
+de Dados
+        - Tópicos Especiais em Redes de
+Comunicação de Dados
+        - Tópicos Especiais em Sistemas
+Embarcados

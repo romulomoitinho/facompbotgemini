@@ -1,0 +1,61 @@
+Dúvidas e Respostas sobre o Curso de Engenharia de Computação - UFPA
+
+1. Qual é o objetivo principal do curso de Engenharia de Computação?
+   Resposta: O objetivo do curso de Engenharia de Computação é prover uma formação que capacite o profissional para soluções de problemas do mundo real, por meio da concepção e implementação de sistemas e modelos computacionais. Os alunos têm uma formação geral dentro da engenharia, permitindo flexibilidade e versatilidade após a graduação, com conhecimentos em matemática, física, eletricidade e fundamentos de computação. Além disso, o curso objetiva fornecer uma formação humanística que enfatiza aspectos éticos, ambientais e empreendedores.
+
+2. Qual é o perfil do egresso do curso de Engenharia de Computação?
+   Resposta: O Engenheiro de Computação deve ter um perfil diversificado, compreendendo a construção, programação e aplicação de sistemas computacionais em variados campos do conhecimento. Esse profissional utiliza raciocínio lógico e conhecimentos matemáticos, científicos, tecnológicos e instrumentais para resolver problemas de engenharia. O egresso deve ser capaz de se comunicar com profissionais de diversas áreas e deve desenvolver habilidades como supervisão de sistemas, planejamento de projetos, resolução de problemas, comunicação eficiente, atuação em equipes multidisciplinares e aplicação de ética profissional.
+
+3. Quais são as áreas de formação destacadas pelo curso?
+   Resposta: O curso de Engenharia de Computação destaca a formação acadêmica nas áreas de Sistemas de Suporte à Decisão e Sistemas e Processos Industriais. A área de Sistemas de Suporte à Decisão envolve o desenvolvimento de metodologias que combinam estatística, inteligência computacional e bases de dados para análise e suporte à tomada de decisão. A área de Sistemas e Processos Industriais é voltada para soluções customizadas para a indústria e agroindústria, incluindo sistemas embarcados e automação e controle.
+
+4. Como é estruturada a oferta do curso de Engenharia de Computação na UFPA?
+   Resposta: O curso é ofertado na modalidade presencial, com ingresso via processo seletivo. São disponibilizadas 30 vagas por turno (matutino e vespertino), totalizando 10 períodos, com duração mínima de 5 anos e máxima de 7,5 anos. O título conferido é de Bacharel em Engenharia de Computação, e o curso possui uma carga horária total de 3600 horas.
+
+5. Quais são os fundamentos epistemológicos, éticos e didático-pedagógicos do curso?
+   Resposta: Os fundamentos do curso incluem interdisciplinaridade, transversalidade, participação em eventos extraclasse, empenho político-cultural e a integração entre ensino, pesquisa e extensão. O curso incentiva uma formação holística e polivalente, com ações direcionadas à formação técnica e humanística dos estudantes, desenvolvendo senso crítico e habilidades sociais e éticas necessárias para a atuação profissional e cidadã.
+
+6. Quais são as competências e habilidades que o curso busca desenvolver nos alunos?
+   Resposta: O curso busca desenvolver diversas competências e habilidades nos alunos, tais como:
+   - Aplicar conhecimentos matemáticos, científicos, tecnológicos e instrumentais à engenharia.
+   - Projetar e conduzir experimentos, além de interpretar dados.
+   - Projetar sistemas, componentes ou processos para atender a necessidades específicas.
+   - Identificar, formular e resolver problemas de engenharia.
+   - Comunicar-se eficazmente.
+   - Compreender e aplicar a ética profissional e a responsabilidade social.
+   - Avaliar o impacto das atividades da engenharia no contexto social e ambiental.
+   - Reconhecer a necessidade de, e engajar-se em, desenvolvimento profissional contínuo.
+   - Utilizar técnicas, habilidades e ferramentas modernas da engenharia.
+   - Atuar em equipes multidisciplinares.
+
+7. Como o curso de Engenharia de Computação integra a teoria com a prática?
+   Resposta: O curso de Engenharia de Computação integra a teoria com a prática através de uma combinação de disciplinas teóricas e laboratoriais. Os alunos participam de projetos integradores, estágios supervisionados e atividades de extensão que possibilitam a aplicação prática dos conhecimentos adquiridos. Além disso, o curso promove a participação em pesquisas e eventos científicos, e incentiva a interação com o mercado de trabalho por meio de parcerias com empresas e instituições.
+
+8. Quais são os critérios de avaliação e aprovação no curso?
+   Resposta: Os critérios de avaliação e aprovação no curso incluem provas, trabalhos, projetos, participação em aulas e outras atividades acadêmicas definidas pelo professor responsável pela disciplina. A média mínima para aprovação é 5,0, e a frequência mínima exigida é de 75% das aulas e atividades programadas. Os alunos devem também cumprir os prazos para entrega de trabalhos e participar de avaliações práticas e teóricas conforme especificado no plano de ensino de cada disciplina.
+
+9. Quais são as possibilidades de atuação profissional para os engenheiros de computação formados pela UFPA?
+   Resposta: Os engenheiros de computação formados pela UFPA têm diversas possibilidades de atuação profissional, incluindo:
+   - Desenvolvimento de software e sistemas computacionais.
+   - Gerenciamento de projetos de tecnologia da informação.
+   - Automação e controle de processos industriais.
+   - Consultoria em tecnologia e inovação.
+   - Pesquisa e desenvolvimento em instituições acadêmicas e industriais.
+   - Empreendedorismo em startups e empresas de tecnologia.
+   - Administração de redes e segurança da informação.
+
+10. Como é estruturado o estágio supervisionado no curso de Engenharia de Computação?
+    Resposta: O estágio supervisionado é uma atividade obrigatória no curso de Engenharia de Computação e deve ser realizado em empresas, instituições ou laboratórios que possuam convênio com a UFPA. O estágio tem como objetivo proporcionar ao aluno a oportunidade de aplicar os conhecimentos adquiridos em situações reais de trabalho, desenvolvendo habilidades práticas e profissionais. A carga horária mínima para o estágio supervisionado é de 160 horas, e o aluno deve ser acompanhado por um supervisor na empresa e por um professor orientador na universidade.
+
+11. Quais são os requisitos para a realização do Trabalho de Conclusão de Curso (TCC)?
+    Resposta: O Trabalho de Conclusão de Curso (TCC) é uma atividade obrigatória e deve ser realizado nos dois últimos períodos do curso. Os alunos devem desenvolver um projeto de pesquisa ou de desenvolvimento tecnológico sob a orientação de um professor. O TCC deve ser apresentado e defendido publicamente perante uma banca examinadora. O aluno precisa estar regularmente matriculado, ter concluído todas as disciplinas obrigatórias até o 8º período e cumprir as normas estabelecidas pelo colegiado do curso.
+
+12. Quais são os conteúdos abordados nas disciplinas de formação básica do curso?
+    Resposta: As disciplinas de formação básica do curso de Engenharia de Computação incluem conteúdos de Matemática (Cálculo, Álgebra Linear, Geometria Analítica), Física (Mecânica, Eletricidade e Magnetismo, Termodinâmica), Química Geral, Expressão Gráfica, Computação (Introdução à Computação, Algoritmos e Programação, Estruturas de Dados) e Engenharia (Fundamentos de Circuitos Elétricos, Eletrônica Básica). Essas disciplinas fornecem os fundamentos necessários para as disciplinas específicas e profissionais do curso.
+
+13. Como são organizadas as atividades complementares e qual é sua importância?
+    Resposta: As atividades complementares são componentes curriculares obrigatórios e devem totalizar 200 horas. Elas podem incluir participação em projetos de pesquisa e extensão, monitorias, estágios não obrigatórios, participação em eventos científicos, cursos de extensão, entre outras atividades. Essas atividades são importantes para a formação integral do aluno, proporcionando experiências práticas e ampliando os conhecimentos adquiridos nas disciplinas formais do curso.
+
+14. Quais são as disciplinas específicas e profissionais do curso de Engenharia de Computação?
+    Resposta: As disciplinas específicas e profissionais do curso incluem, entre outras, Programação Orientada a Objetos, Sistemas Operacionais, Redes de Computadores, Banco de Dados, Engenharia de Software, Sistemas Digitais, Microprocessadores e Microcontroladores, Sistemas Embarcados, Controle e Automação, Inteligência Artificial e Robótica. Essas disciplinas aprofundam os conhecimentos técnicos e tecnológicos necessários para a atuação profissional do engenheiro de computação.
+
